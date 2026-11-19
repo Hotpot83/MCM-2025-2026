@@ -15,7 +15,9 @@
 | `F - To Gen-AI, or Not To Gen-AI (or how to Gen-AI)？ That is the Question！` | F 题：用还是不用生成式 AI | 4 | 约 25.8 MB |
 | `全翻译` | 各题中文翻译版（A、D、E、B、C） | 5 | 约 192.2 MB |
 
-小计 47 个 PDF，约 475 MB。
+小计 47 篇论文 + 6 个题目原文 PDF + 1 个数据 CSV，约 476.5 MB。
+
+各题目文件夹内同时收录了 COMAP 官方题目原文（`2026_MCM_Problem_A/B/C.pdf`、`2026_ICM_Problem_D/E/F.pdf`），C 题另附官方数据 `2026_MCM_Problem_C_Data.csv`。
 
 ## 2025 年（`25` 文件夹）
 
@@ -26,10 +28,11 @@
 
 小计 49 个文件，约 402 MB。
 
-合计 96 个文件，约 877 MiB。
+合计 103 个文件，约 879 MiB（含 7 个题目原文文件）。
 
 ## 说明
 
+- 题目原文下载自 COMAP 官方赛题页（contest.comap.com），未作改动。
 - 论文与真题基本为 PDF 格式，可直接用浏览器或 PDF 阅读器打开；`2025年美赛真题` 中的 `icm2025d.7z`、`mcm2025C.7z` 需先解压。
 - 仓库总量约 877 MiB，克隆时请预留足够磁盘空间。单文件最大约 97 MiB（`全翻译/（已压缩）C(翻译结果).pdf`），未超过 GitHub 的 100 MiB 限制。
 - 本仓库仅用于资料整理与学习交流。
